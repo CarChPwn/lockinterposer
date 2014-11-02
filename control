@@ -1,0 +1,9 @@
+Package: com.CarChPwn.lockinterposer
+Name: lock_interposer
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: An interposer for lockdownd
+Maintainer: Carlos Prieto
+Author: Carlos Prieto
+Section: Tweaks
